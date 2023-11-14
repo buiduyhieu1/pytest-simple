@@ -1,4 +1,4 @@
-"""This is a sample Python script."""
+""" This is a model for support the main script. """
 import uuid
 
 
